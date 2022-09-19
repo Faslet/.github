@@ -1,6 +1,6 @@
 # Size Me Up 
 
-<img src="./faslet_banner.png" />
+<img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/faslet_banner.png" />
 
 ## Connects the perfect fit to your shoppers
 
