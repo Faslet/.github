@@ -1,7 +1,6 @@
-# Size Me Up 
-
 <img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/faslet_banner.png" />
 
+# Size Me Up 
 ## Connects the perfect fit to your shoppers
 
 Help your online shoppers find the right size, increase conversion rates and reduce clothing returns
