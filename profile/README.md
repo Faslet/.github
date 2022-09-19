@@ -1,4 +1,7 @@
 # Size Me Up 
+
+<img src="./faslet_banner.png" />
+
 ## Connects the perfect fit to your shoppers
 
 Help your online shoppers find the right size, increase conversion rates and reduce clothing returns
