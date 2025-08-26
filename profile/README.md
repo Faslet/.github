@@ -1,19 +1,17 @@
 <img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/faslet_banner.png" />
 
-# Size Me Up 
-## Connects the perfect fit to your shoppers
+## <img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/size-me.png" width="32" style="vertical-align: text-top;" /> Faslet's size-me
 
-Help your online shoppers find the right size, increase conversion rates and reduce clothing returns
+Faslet size-me works across all categories: menswear, womenswear, kids, shoes, and plus sizes. From suits to sneakers, it helps shoppers find their best fit quickly, accurately, and effortlessly.
 
-### Size Me Up
-Faslet's Size Me Up widget helps your retail customers find the perfect size in just a few easy steps. No measuring tape is required!
+## <img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/try-on.png" width="32" style="vertical-align: text-top;" /> Faslet's try-on
 
-The size recommendation widget is tailored to your online fashion brand or multi-brand store, both in function and design. Our innovative algorithm ensures your customers will be recommended the right size. The widget itself is easy to integrate and customize, making it the perfect addition to your online retail shop. 
+Faslet try-on is tailored for apparel tops, bottoms, outerwear, and more. Ideal for brands looking to create more engaging product pages and build trust through personalised, size-aware visuals.
 
-## Faslet Tech
-Faslet provides integrations for several platforms, as well as the ability to integrate our widget into whatever custom platform you have. Is your webshop built in Shopify, Magento, Commerce Cloud, WooCommerce, Shopware, Lightspeed, Shopmaster or BigCommerce? Then you can seamless use our code snippet or plugins. Download this via the App Store of the relevant website, register as a merchant at Faslet and start today!
+## <img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/technology.png" width="32" style="vertical-align: text-top;" /> Technology
 
+Faslet provides integrations for several platforms, as well as the ability to integrate our widget into whatever custom platform you have. Is your webshop built in Shopify, Magento, Commerce Cloud, WooCommerce, Shopware, Lightspeed, Shopmaster or BigCommerce? Then you can seamlessly use our code snippet or plugins. Download this via the App Store of the relevant website, register as a merchant at Faslet and start today!
 
-## Integration
+## <img src="https://raw.githubusercontent.com/Faslet/.github/main/profile/integration.png" width="32" style="vertical-align: text-top;" /> Integration
+
 This page provides integration examples and repositories for our public packages. To see more details on integration, [see our docs](https://docs.faslet.net)
-
